@@ -23,7 +23,7 @@ A simple model was created in Blender to represent Balbhadra Kunwar, then we use
 
 ![image](https://github.com/Rajaramkarki/Nalapani2/assets/67723187/a632ded4-b304-4487-a304-bb23c9375b01)
 
-![image](https://github.com/Rajaramkarki/Nalapani2/assets/67723187/6cba4dba-97e3-4bf3-a24b-bcf92e01caab)  ![image](https://github.com/Rajaramkarki/Nalapani2/assets/67723187/28794cc4-b2bb-45eb-9848-d42ed57d1d4e)
+![image](https://github.com/Rajaramkarki/Nalapani2/assets/67723187/6cba4dba-97e3-4bf3-a24b-bcf92e01caab) ![image](https://github.com/Rajaramkarki/Nalapani2/assets/67723187/28794cc4-b2bb-45eb-9848-d42ed57d1d4e)
 
 
 
